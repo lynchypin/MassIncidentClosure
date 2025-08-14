@@ -33,7 +33,7 @@ It is interactive, safe, and designed for use by PagerDuty admins, account owner
   ```bash
   pip install requirements.txt
 
-  ## PagerDuty User API Key (not an integration key!)
+## PagerDuty User API Key (not an integration key!)
   
   1. Log in to PagerDuty.
   2. Click your avatar (top right) > **My Profile**.
