@@ -38,14 +38,14 @@ or
   ```bash
   pip install requirements.txt
 ---
-## PagerDuty User API Key (not an integration key!)
-
-1. Log in to PagerDuty.
-2. Click your avatar (top right) > **My Profile**.
-3. Scroll to **User Settings** > **API Access Keys**.
-4. Click **Create New API Key** and copy it somewhere safe.
-
-You will also need your PagerDuty user email (the email you use to log in to PagerDuty).
+  ## PagerDuty User API Key (not an integration key!)
+  
+  1. Log in to PagerDuty.
+  2. Click your avatar (top right) > **My Profile**.
+  3. Scroll to **User Settings** > **API Access Keys**.
+  4. Click **Create New API Key** and copy it somewhere safe.
+  
+  You will also need your PagerDuty user email (the email you use to log in to PagerDuty).
 
 ---
 
