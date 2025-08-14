@@ -3,6 +3,12 @@
 This script allows you to **bulk close open incidents** in PagerDuty based on your chosen time window and service selection.  
 It is interactive, safe, and designed for use by PagerDuty admins, account owners, or users with sufficient permissions.
 
+# OS Specific Notes
+
+- For the best experience, use a modern terminal (Windows Terminal, PowerShell, or Mac Terminal).
+- You’ll need your PagerDuty API token and user email to use the tool.
+- If you encounter issues with interactive prompts on Windows, try running the script in Windows **Terminal or PowerShell** rather than **cmd.exe**.
+
 ---
 
 ## Features
