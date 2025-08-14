@@ -33,13 +33,10 @@ It is interactive, safe, and designed for use by PagerDuty admins, account owner
   ```bash
   pip install requests python-dateutil questionary
 
----
-**OR**
----
+or
 
   ```bash
   pip install requirements.txt
-
 ---
 ## PagerDuty User API Key (not an integration key!)
 
